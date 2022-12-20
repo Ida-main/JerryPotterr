@@ -61,7 +61,7 @@ const textNodes = [
   },
   {
     id: 2,
-    text: 'After a steamy round two, you go to class and meet Severus snape. .',
+    text: 'After a steamy round two, you go to class and meet Severus snape. He points out that being in love with hagrid is pathetic. You start to cry.',
     options: [
       {
         text: 'You walk away feeling embarrassed',
